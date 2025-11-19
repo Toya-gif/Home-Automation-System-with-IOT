@@ -1,4 +1,4 @@
-# Home-Automation-System-with-IOT
+# Home-Automation-System-wit-IOT
 
 # AIM: 
   To make a Lamp at home (230 V AC) On / Off using ESP8266, IFTT Google Assistance and Blynk IoT mobile application.          
